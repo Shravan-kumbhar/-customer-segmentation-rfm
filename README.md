@@ -42,8 +42,6 @@ all revenue — making them the highest priority retention target.
 - **At Risk** — Urgent win-back email campaign with 15% discount
 - **Dormant** — Last-chance offer, then suppress from marketing lists
 
-## Dashboard Preview
-![Dashboard](customer_segmentation_dashboard.pdf)
 
 ## How to Run
 ```bash
