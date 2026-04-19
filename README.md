@@ -1,4 +1,4 @@
-# -customer-segmentation-rfm
+# customer-segmentation-rfm
 Customer segmentation using RFM analysis and K-Means clustering on e-commerce data
 
 # Customer Segmentation Analysis — RFM + K-Means Clustering
